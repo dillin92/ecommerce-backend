@@ -1,4 +1,4 @@
-const { Tag } = require('../fantastic-umbrella-main/Develop/models');
+const { Tag } = require('../models');
 
 const tagData = [
   {
