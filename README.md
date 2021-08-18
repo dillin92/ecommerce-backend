@@ -1,4 +1,4 @@
-# Ecommmerce Backend
+# Ecommerce Backend
 
 ## Description
 
